@@ -1,4 +1,0 @@
-import streamlit as st
-st.set_page_config(page_title="Predictive Maintenenace - Random Forest")
-st.title("Predictive Maintenance - Random Forest")
-st.write("This is a simple web application to predict the probability of failure of a machine using a Random Forest model.")
